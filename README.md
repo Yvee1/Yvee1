@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-<img src="./2019.12.10-21.19.34.gif" width=512 height=512></img></p>
+<img src="https://github.com/Yvee1/Yvee1/blob/master/2019.12.10-21.19.34.gif" width=512 height=512></img></p>
 <!--
 **Yvee1/Yvee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
